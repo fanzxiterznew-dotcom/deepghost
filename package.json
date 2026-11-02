@@ -1,0 +1,14 @@
+{
+  "name": "wa-bot-fakeloc",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Pairing Code dengan Fake Location Menu Anime",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.13",
+    "pino": "^8.19.0"
+  }
+}
